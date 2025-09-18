@@ -1,11 +1,5 @@
 # Craftrise Stealer
 
-## 🎯 Star Goals
-| ⭐ Stars | 🎁 Feature |
-|----------|------------|
-| **10** | 📱 Log retrieval with Telegram bot integration |
-| **15** | 🛡️ VirusTotal 0/70 detection-free builder |
-
 Node.js tool for extracting and decrypting user credentials from Craftrise client configuration files.
 
 ## Installation
@@ -54,3 +48,4 @@ This tool is for educational and research purposes only. The author is not respo
 
 ---
 ⚡ **Craftrise Stealer** - Developed by Fatih1963
+
