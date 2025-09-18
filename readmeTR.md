@@ -1,11 +1,5 @@
 # Craftrise Stealer
 
-## 🎯 Yıldız Hedefleri
-| ⭐ Yıldız | 🎁 Özellik |
-|----------|------------|
-| **10** | 📱 Telegram bot entegrasyonu ile log alma |
-| **15** | 🛡️ VirusTotal 0/70 algılama-free builder |
-
 Craftrise istemci yapılandırma dosyalarından kullanıcı kimlik bilgilerini çıkarıp şifresini çözen Node.js aracı.
 
 ## Kurulum
@@ -54,3 +48,4 @@ Bu araç yalnızca eğitim ve araştırma amaçlıdır. Yazar, bu yazılımın n
 
 ---
 ⚡ **Craftrise Stealer** - Fatih1963 tarafından geliştirildi
+
